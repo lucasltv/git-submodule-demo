@@ -1,0 +1,3 @@
+[submodule "git-submodule-lib-demo"]
+	path = git-submodule-lib-demo
+	url = git@github.com:lucasltv/git-submodule-lib-demo.git
